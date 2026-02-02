@@ -1,33 +1,35 @@
 ﻿📷 Simple Webcam Viewer </br>
 Aplikasi sederhana untuk menampilkan kamera laptop dengan kemampuan mengambil screenshot.
 
-✨ Fitur
-📹 Tampilkan kamera laptop secara real-time
-📸 Ambil screenshot dengan satu klik
-🎛️ Kontrol mudah dengan keyboard
-🔄 Otomatis bersihkan resource saat keluar
+✨ Fitur</br>
+📹 Tampilkan kamera laptop secara real-time</br>
+📸 Ambil screenshot dengan satu klik</br>
+🎛️ Kontrol mudah dengan keyboard</br>
+🔄 Otomatis bersihkan resource saat keluar</br>
 
-🛠️ Instalasi
-Clone repository:
-https://github.com/Kanzacky/Simple-Webcam-Viewer.git
-cd simple-webcam-viewer
+🛠️ Instalasi</br>
+Clone repository:</br>
+https://github.com/Kanzacky/Simple-Webcam-Viewer.git</br>
+cd simple-webcam-viewer</br>
 
-Instal OpenCV:
-pip install opencv-python
+Instal OpenCV:</br>
+pip install opencv-python</br>
 
-🚀 Penggunaan
-Jalankan aplikasi:
-python camera.py
+🚀 Penggunaan</br>
+Jalankan aplikasi:</br>
+python camera.py</br>
 
-⌨️ Kontrol
-Q - Keluar dari aplikasi
-S - Simpan screenshot sebagai capture.jpg
+⌨️ Kontrol</br>
+Q - Keluar dari aplikasi</br>
+S - Simpan screenshot sebagai capture.jpg</br>
 
-📝 Catatan
-Pastikan kamera laptop berfungsi dengan baik
-Aplikasi ini hanya untuk tampilan kamera dasar
+📝 Catatan</br>
+Pastikan kamera laptop berfungsi dengan baik</br>
+Aplikasi ini hanya untuk tampilan kamera dasar</br>
+
 Gambar disimpan di folder yang sama dengan script
 
 📄 Lisensi
 Bebas digunakan untuk keperluan pribadi maupun komersial.
+
 
