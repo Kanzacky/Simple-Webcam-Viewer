@@ -1,11 +1,11 @@
 ﻿📷 Simple Webcam Viewer </br>
-Aplikasi sederhana untuk menampilkan kamera laptop dengan kemampuan mengambil screenshot.
+Aplikasi sederhana untuk menampilkan kamera laptop dengan kemampuan mengambil screenshot.</br>
 
 ✨ Fitur</br>
-📹 Tampilkan kamera laptop secara real-time</br>
-📸 Ambil screenshot dengan satu klik</br>
-🎛️ Kontrol mudah dengan keyboard</br>
-🔄 Otomatis bersihkan resource saat keluar</br>
+Tampilkan kamera laptop secara real-time</br>
+Ambil screenshot dengan satu klik</br>
+Kontrol mudah dengan keyboard</br>
+Otomatis bersihkan resource saat keluar</br>
 
 🛠️ Instalasi</br>
 Clone repository:</br>
@@ -26,10 +26,7 @@ S - Simpan screenshot sebagai capture.jpg</br>
 📝 Catatan</br>
 Pastikan kamera laptop berfungsi dengan baik</br>
 Aplikasi ini hanya untuk tampilan kamera dasar</br>
+Gambar disimpan di folder yang sama dengan script</br>
 
-Gambar disimpan di folder yang sama dengan script
-
-📄 Lisensi
-Bebas digunakan untuk keperluan pribadi maupun komersial.
-
-
+📄 Lisensi</br>
+Bebas digunakan untuk keperluan pribadi maupun komersial.</br>
